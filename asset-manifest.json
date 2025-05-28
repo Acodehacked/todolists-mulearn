@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolists-mulearn/static/css/main.31a93a4d.css",
+    "main.js": "/todolists-mulearn/static/js/main.fd96c043.js",
+    "static/js/453.59bb3b6d.chunk.js": "/todolists-mulearn/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/todolists-mulearn/index.html",
+    "main.31a93a4d.css.map": "/todolists-mulearn/static/css/main.31a93a4d.css.map",
+    "main.fd96c043.js.map": "/todolists-mulearn/static/js/main.fd96c043.js.map",
+    "453.59bb3b6d.chunk.js.map": "/todolists-mulearn/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a93a4d.css",
+    "static/js/main.fd96c043.js"
+  ]
+}
